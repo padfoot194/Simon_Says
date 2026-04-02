@@ -1,3 +1,2 @@
 # Simon_Says
-FPGA Based Classic Memory Game
 This is our project from the Digital Electronics Laboratory (EEE 304), which we completed in our Level-3 Term-2 at the Bangladesh University of Engineering and Technology (BUET) under the Department of Electrical and Electronic Engineering. Our project is a classic memory game, Simon Says. However, we had to implement it on the FPGA board (Nexys A7-100T) using Verilog coding. This is a brief demonstration of the work we've done for our project. Enjoy ^_^
